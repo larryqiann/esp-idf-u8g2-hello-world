@@ -4,7 +4,10 @@ This is based on the [standard Hello world]() from the ESP-IDF examples, and the
 [u8g2-hal-esp-idf i2c test
 file](https://github.com/mkfrey/u8g2-hal-esp-idf/blob/master/examples/test_SSD1306_i2c.c)
 
-Prints "Hello World" onto a 0.91" 128x32 SSD1306 OLED display
+Prints "Hello World" onto a 0.91" 128x32 SSD1306 OLED display. If you wish to
+use this project with a different display, select the u8g2 setup function
+(`u8g2_Setup_ssd1306_i2c_128x32_univision_f` in the example code) according to
+the [u8g2 wiki](https://github.com/olikraus/u8g2/wiki/u8g2setupcpp)
 
 ## How to use example
 
