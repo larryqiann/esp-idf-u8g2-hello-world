@@ -1,8 +1,7 @@
 # Hello World Example
 
-This is based on the [standard Hello world]() from the ESP-IDF examples, and the
-[u8g2-hal-esp-idf i2c test
-file](https://github.com/mkfrey/u8g2-hal-esp-idf/blob/master/examples/test_SSD1306_i2c.c)
+This is based on the [standard Hello world](https://github.com/espressif/esp-idf/tree/master/examples/get-started/hello_world)
+from the ESP-IDF examples, and the [u8g2-hal-esp-idf i2c test file](https://github.com/mkfrey/u8g2-hal-esp-idf/blob/master/examples/test_SSD1306_i2c.c)
 
 Prints "Hello World" onto a 0.91" 128x32 SSD1306 OLED display. If you wish to
 use this project with a different display, select the u8g2 setup function
