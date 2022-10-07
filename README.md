@@ -11,9 +11,9 @@ the [u8g2 wiki](https://github.com/olikraus/u8g2/wiki/u8g2setupcpp)
 
 ## How to use example
 
-Follow detailed instructions provided specifically for this example. however,
-in the [Step 5: Start a project](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html#step-5-start-a-project)
-clone this project and it's submodules with:
+Follow detailed instructions provided specifically for the main hello world
+example linked below. However, in the [Step 5: Start a project](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html#step-5-start-a-project)
+clone this project and it's submodules instead of the standard hello world with:
 
 ```bash
 git clone https://github.com/jdthorpe/esp-idf-u8g2-hello-world
