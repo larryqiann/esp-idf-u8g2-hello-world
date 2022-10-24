@@ -1,6 +1,0 @@
-[submodule "components/u8g2"]
-	path = components/u8g2
-	url = ../../olikraus/u8g2
-[submodule "components/u8g2-hal-esp-idf"]
-	path = components/u8g2-hal-esp-idf
-	url = ../../mkfrey/u8g2-hal-esp-idf
